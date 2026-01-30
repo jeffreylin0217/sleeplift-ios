@@ -10,9 +10,9 @@ Swift iOS app built in Xcode to log sleep, caffeine, workouts, and nutrition, an
 - Export CSV files for downstream analytics
 
 ## Screenshots
-![App Screenshot 1](iOS_categories.png)
-![App Screenshot 2](iOS_csv1.png)
-![App Screenshot 3](iOS_csv2.png)
+![App Screenshot 1](docs/iOS_categories.png)
+![App Screenshot 2](docs/iOS_csv1.png)
+![App Screenshot 3](docs/iOS_csv2.png)
 
 ## Data pipeline
 These CSV exports are consumed by my data engineering repo:
